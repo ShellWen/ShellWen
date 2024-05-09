@@ -18,19 +18,31 @@
 
 <div align="center" style="display: inline;">
       <a href="https://github.com/ShellWen" target="_blank">
-        <img
-          src="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=transparen&hide_border=true"
-          alt="ShellWen"
-          width="45%"
-        />
+        <picture>
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=default&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=default&hide_border=true" />
+        </picture>
       </a>
       <br>
       <a href="https://github.com/ShellWen" target="_blank">
-        <img
-          src="https://github-readme-stats.shellwen.com/api/wakatime?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=transparen&hide_border=true"
-          alt="ShellWen"
-          width="45%"
-        />
+        <picture>
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.shellwen.com/api/wakatime?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.shellwen.com/api/wakatime?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" />
+        </picture>
       </a>
   <!--
       <br>

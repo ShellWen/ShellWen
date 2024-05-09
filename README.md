@@ -4,20 +4,22 @@
   <i>A little brown bear who can write code.</i>
   <br>
   <br>
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  ![GitHub Sponsors](https://img.shields.io/github/sponsors/ShellWen)
-  ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=shellwen.shellwen&left_color=green&right_color=red)
+  ![WakaTime Badge](https://wakatime.com/badge/user/98e38870-1ea4-4c21-bdcd-32409615219c.svg?style=for-the-badge)
+  ![GitHub Sponsors](https://img.shields.io/github/sponsors/ShellWen?style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
   <br>
-  ![GitHub Followers](https://img.shields.io/github/followers/ShellWen?style=social)
-  ![GitHub User's Stars](https://img.shields.io/github/stars/ShellWen?affiliations=OWNER%2CCOLLABORATOR&style=social)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/realShellWen?style=social)
-  
+  ![GitHub Followers](https://img.shields.io/github/followers/ShellWen?style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
+  ![GitHub User's Stars](https://img.shields.io/github/stars/ShellWen?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&labelColor=%2381530A&color=%23F6E5AE)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/realShellWen?style=for-the-badge&logo=twitter&logoColor=white&labelColor=%2381530A&color=%23FF000000)
+  <br>
+  ![E-Mail](https://img.shields.io/badge/E--Mail-me%40shellwen.com-blue?style=for-the-badge&labelColor=%2381530A&color=%23F6E5AE)
+  ![Matrixl](https://img.shields.io/badge/Matrix-%40shellwen%3Amatrix.org-blue?style=for-the-badge&logo=matrix&labelColor=%2381530A&color=%23F6E5AE)
+
 </div>
 
 <div align="center" style="display: inline;">
       <a href="https://github.com/ShellWen" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=ShellWen&show_icons=true&locale=en&theme=radical&hide_border=true"
+          src="https://github-readme-stats.shellwen.com/api?username=ShellWen&show_icons=true&locale=en&theme=transparen&hide_border=true"
           alt="ShellWen"
           width="45%"
         />
@@ -25,11 +27,20 @@
       <br>
       <a href="https://github.com/ShellWen" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+          src="https://github-readme-stats.shellwen.com/api/wakatime?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=transparen&hide_border=true"
           alt="ShellWen"
           width="45%"
         />
       </a>
+  <!--
+      <br>
+      <a href="https://github.com/ShellWen" target="_blank">
+        <img
+          src="https://github-readme-stats.shellwen.com/api/top-langs?username=ShellWen&show_icons=true&locale=en&layout=compact&theme=transparen&hide_border=true"
+          alt="ShellWen"
+          width="45%"
+        />
+      </a>-->
 </div>
 
 <!--
